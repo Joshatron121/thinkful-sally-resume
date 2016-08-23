@@ -1,0 +1,9 @@
+main {
+	background-color: azure;
+	border: 1px solid aquamarine;
+	padding: 30px;
+}
+
+h1, address {
+	text-align: center;
+}
